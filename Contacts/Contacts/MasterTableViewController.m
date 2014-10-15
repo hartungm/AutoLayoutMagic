@@ -2,7 +2,7 @@
 //  MasterTableViewController.m
 //  Contacts
 //
-//  Created by Michael Hartung on 9/29/14.
+//  Created by Michael Hartung and Matthew Armand on 9/29/14.
 //  Copyright (c) 2014 hartung-michael. All rights reserved.
 //
 

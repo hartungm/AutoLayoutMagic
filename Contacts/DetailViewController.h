@@ -2,7 +2,7 @@
 //  DetailViewController.h
 //  Contacts
 //
-//  Created by Michael Hartung on 9/30/14.
+//  Created by Michael Hartung and Matthew Armand on 9/30/14.
 //  Copyright (c) 2014 hartung-michael. All rights reserved.
 //
 
